@@ -119,8 +119,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proposal">
-            <pb facs="tcp:022336_0000_0FB7ECDA0CBF0FC0"/>
-            <pb facs="tcp:022336_0001_0FB7ECDB5168B9E0" rendition="simple:additions"/>
+            <pb facs="unknown:022336_0000_0FB7ECDA0CBF0FC0"/>
+            <pb facs="unknown:022336_0001_0FB7ECDB5168B9E0"
+                rendition="simple:additions"/>
             <head>PROPOSAL, FOR PRINTING BY SUBSCRIPTION, THE SECOND AND THIRD VOLUMES OF THE <hi>HISTORY</hi> of NEW-HAMPSHIRE.</head>
             <byline>BY JEREMY BELKNAP, A M.</byline>
             <div n="2" type="volume">
